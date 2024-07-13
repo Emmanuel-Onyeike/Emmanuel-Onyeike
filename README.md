@@ -2,7 +2,7 @@ Hi! My name is Emmanuel Onyeike 😄
 
 
 
-🌍  I am a Full Stack Developer based in Nigeria.
+🌍  I am a WEB Developer based in Nigeria.
 
 Skills
 
